@@ -1,0 +1,2 @@
+# Chat-Bot
+Java project to create a ChatBot on irc.freenode.net which implements two APIs:  outputs current weather information using the Open Weather API (https://openweathermap.org/current) whenever "weather," followed by the ZIP code is typed. outputs the first definition of input word from the Oxford Dictionary API (https://developer.oxforddictionaries.com) whenever user types "define" followed by the word. 
